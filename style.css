@@ -1,0 +1,39 @@
+body{
+   background-color: #f0f0f0;
+   font-family: 'segoe UI',Tahoma,geneva, vervana, sans-serif;
+   color:#333;
+   text-align: center;
+   padding: 20px;
+}
+
+h1{
+    color: #4caf50;
+    font-size: 2.5em;
+}
+
+img{
+    border-radius: 50%;
+    width: 150px;
+    heigh: 150px;
+    object-fit: cover;
+    border:5px solid #4caf50;
+}
+
+p, ul {
+    font-size: 1.1em;
+    max-width: 600px;
+    margin: 20px auto;
+
+}
+
+a {
+    color: #007bff;
+    text-decoration: Renato;
+    font-weight: bold;
+}
+
+<h2>Meus projetos</h2>
+<ul>
+    <li>
+         <h4><a href="https://github.com/renato957/agrinho.git" target="-blank">diferença do campo e a cidade 2 </a></h4>
+         <p>
